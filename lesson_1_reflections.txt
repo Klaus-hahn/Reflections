@@ -16,7 +16,7 @@ A: Git is used for programming, and a lot of files would depend on each other. T
 
 How can you use the commands git log and git diff to view the history of files?
 
-A:
+A: I use git log to see the list of commits and git diff to see the changes that I've done
 
 How might using version control make you more confident to make changes that could break something?
 
@@ -24,5 +24,5 @@ A: I can always go back and fix it :)
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-A:I want to be able to program without fear of loosing important things
+A: I want to be able to program without fear of loosing important things
 

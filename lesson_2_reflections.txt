@@ -18,7 +18,7 @@ A: when i need to do new projects based on the master branch, but they dont actu
 
 How do the diagrams help you visualize the branch structure?
 
-A: the branch only looks like a branch when i do a diagram, in git it just look like IDs and names.
+A: the branch only looks like a branch when I do a diagram, in git it just look like IDs and names.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
@@ -26,4 +26,4 @@ A: we have all the features of the two branches, and its represented as one bran
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-A: automatic is easier, but i can make mistakes. manually is slow but i can make it well and without mistakes
+A: automatic is easier, but i can make mistakes. manually is slow but i can make it well and without mistakes 
